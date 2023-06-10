@@ -1,0 +1,22 @@
+{
+  "name": "java_and_selenium",
+  "version": "1.0.0",
+  "description": "reports on the server",
+  "main": "index.js",
+  "scripts": {
+    "report": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Momezz/Java_And_Selenium.git"
+  },
+  "author": "Julian Gomez M",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Momezz/Java_And_Selenium/issues"
+  },
+  "homepage": "https://github.com/Momezz/Java_And_Selenium#readme",
+  "devDependencies": {
+    "multiple-cucumber-html-reporter": "^3.4.0"
+  }
+}
